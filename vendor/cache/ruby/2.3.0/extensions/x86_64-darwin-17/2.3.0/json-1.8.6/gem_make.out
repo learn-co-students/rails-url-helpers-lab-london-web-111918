@@ -1,0 +1,13 @@
+current directory: /Users/Sutty/Desktop/Bootcamp/Rails/rails-url-helpers-lab-london-web-111918/vendor/cache/ruby/2.3.0/gems/json-1.8.6/ext/json
+/Users/sutty/.rvm/rubies/ruby-2.3.3/bin/ruby -r ./siteconf20181217-15692-eq8rto.rb extconf.rb
+creating Makefile
+
+current directory: /Users/Sutty/Desktop/Bootcamp/Rails/rails-url-helpers-lab-london-web-111918/vendor/cache/ruby/2.3.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/Sutty/Desktop/Bootcamp/Rails/rails-url-helpers-lab-london-web-111918/vendor/cache/ruby/2.3.0/gems/json-1.8.6/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/Sutty/Desktop/Bootcamp/Rails/rails-url-helpers-lab-london-web-111918/vendor/cache/ruby/2.3.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" install
