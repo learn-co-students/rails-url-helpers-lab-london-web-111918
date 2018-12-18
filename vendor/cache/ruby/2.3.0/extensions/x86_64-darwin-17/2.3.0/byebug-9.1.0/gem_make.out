@@ -1,0 +1,19 @@
+current directory: /Users/Sutty/Desktop/Bootcamp/Rails/rails-url-helpers-lab-london-web-111918/vendor/cache/ruby/2.3.0/gems/byebug-9.1.0/ext/byebug
+/Users/sutty/.rvm/rubies/ruby-2.3.3/bin/ruby -r ./siteconf20181217-15692-1rcegrc.rb extconf.rb
+creating Makefile
+
+current directory: /Users/Sutty/Desktop/Bootcamp/Rails/rails-url-helpers-lab-london-web-111918/vendor/cache/ruby/2.3.0/gems/byebug-9.1.0/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/Sutty/Desktop/Bootcamp/Rails/rails-url-helpers-lab-london-web-111918/vendor/cache/ruby/2.3.0/gems/byebug-9.1.0/ext/byebug
+make "DESTDIR="
+compiling locker.c
+compiling byebug.c
+compiling context.c
+compiling breakpoint.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/Sutty/Desktop/Bootcamp/Rails/rails-url-helpers-lab-london-web-111918/vendor/cache/ruby/2.3.0/gems/byebug-9.1.0/ext/byebug
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 byebug.bundle ./.gem.20181217-15692-1g16r94/byebug
